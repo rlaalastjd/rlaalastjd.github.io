@@ -12,7 +12,7 @@ name: kim min seong
 tagline: 롤체 챌린저
 about-description: 새 시즌 그마 도전
 # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: image.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: minsung078940@gmail.com # Add your Email address
