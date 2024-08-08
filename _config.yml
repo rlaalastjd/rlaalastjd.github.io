@@ -17,10 +17,8 @@ pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide th
 # Contact links
 email: minsung078940@gmail.com # Add your Email address
 phone: 010 3128 5486 # Add your Phone number
-website: rlaalastjd.github.io # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+website: rlaalastjd.github.io # Add your website, do not add http://\
 github: rlaalastjd # Add your Github handle
-twitter: 'X' # Add your Twitter handle
 
 # Tracker
 analytics:
